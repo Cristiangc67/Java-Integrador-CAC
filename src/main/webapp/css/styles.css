@@ -1,0 +1,16 @@
+body{
+    background-color: #333533;
+    color: #f1faee;
+}
+nav{
+    background-color: #242423;
+}
+td{
+    color: #e8eddf;
+}
+th{
+    color: #f5cb5c;
+}
+tr{
+    border-bottom: 1px solid #f5cb5c;
+}
